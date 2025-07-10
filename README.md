@@ -7,7 +7,7 @@ Use this to extract and compress files on Windows without installation.
 
 ## About
 
-This is an addon designed to work with the [YouTube Toolkit](https://github.com/MoreKronos/Youtube-Toolkit) project. It provides portable 7-Zip functionality to assist with archive extraction and management within the toolkit.
+This is an addon designed to work with the [YouTube Toolkot](https://github.com/MoreKronos/Youtube-Toolkot) project. It provides portable 7-Zip functionality to assist with archive extraction and management within the toolkit.
 
 ---
 
